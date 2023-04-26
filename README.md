@@ -1,1 +1,1 @@
-React_sanity_social_media_app 
+PicsGram : A React Image Sharing Social Media App
